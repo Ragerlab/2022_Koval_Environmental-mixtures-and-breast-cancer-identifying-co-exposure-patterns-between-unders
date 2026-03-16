@@ -27,6 +27,7 @@ This study aimed to identify environmental chemicals in use inventories that co-
 
 **An overview of exposure data curation:**
 <br>
-![Study_Overview_Fig](https://user-images.githubusercontent.com/72747901/146388561-7cd49881-55c1-42b1-8065-e3d02796379a.png)
+
+![nihms-1812226-f0002](https://github.com/user-attachments/assets/07444044-1ebe-4ff9-9caf-c73e610c178f)
 
 
