@@ -1,5 +1,5 @@
 # Script_for_Environmental-Mixtures-and-Breast-Cancer-Identifying-New-Co-Exposure-Patterns-between-Und
-Script for 'Environmental mixtures and breast cancer: identifying co-exposure patterns between understudied vs breast cancer-associated chemicals using chemical inventory informatics' published in the journal of exposure science & environmental epidemiology journal in 2022.
+Script for 'Environmental mixtures and breast cancer: identifying co-exposure patterns between understudied vs breast cancer-associated chemicals using chemical inventory informatics' published in the journal of exposure science & environmental epidemiology in 2022.
 
 Koval LE, Dionisio KL, Friedman KP, Isaacs KK, Rager JE. Environmental mixtures and breast cancer: identifying co-exposure patterns between understudied vs breast cancer-associated chemicals using chemical inventory informatics. J Expo Sci Environ Epidemiol. 2022 Nov;32(6):794-807. doi: 10.1038/s41370-022-00451-8. Epub 2022 Jun 16. PMID: 35710593; PMCID: PMC9742149.
 
